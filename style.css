@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url(https://fonts.googleapis.com/css?family=Raleway:100,200,300,regular,500,600,700,800,900,100italic,200italic,300italic,italic,500italic,600italic,700italic,800italic,900italic);
 *{
     background: #000100;
@@ -24,4 +25,19 @@
 .pig{
     width: 819px;
     height: 762px;
+=======
+.collapse{
+    margin-left: 400px !important;
+}
+a{
+    color: white !important;
+    margin-left: 25px;
+    font-size: 18px;
+}
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: white;
+>>>>>>> 795f42c736ff3a7f53ac90240d34e34c2856b6b0
 }
