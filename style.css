@@ -9,15 +9,19 @@
     font-style: normal;
     font-weight: 400;
     font-size: 82px;
-    /* color: #FFFFFF; */
+    color: #FFFFFF;
 }
 .text{
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    /* color: #FFFFFF; */
+    color: #FFFFFF;
    
 }
 .bold{
     font-weight:800;
+}
+.pig{
+    width: 819px;
+    height: 762px;
 }
